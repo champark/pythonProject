@@ -1,6 +1,12 @@
 import pygame
 import sys
 
+############################################################
+# 이미지 출력 / 풀스크린 전환 / 되돌리기 코드
+# 이미지의 회전
+# 2023-03-16 코드
+############################################################
+
 img_galaxy = pygame.image.load("image/galaxy.png")
 img_sship = pygame.image.load("image/starship.png")
 
