@@ -1,6 +1,8 @@
 import pygame
 import sys
 
+# 카운터가는 동시에 색이 변경되는 코드
+
 WHITE = (255,255,255)
 BLACK = (0, 0, 0)
 
